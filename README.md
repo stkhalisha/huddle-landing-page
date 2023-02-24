@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/stkhalisha/huddle-landing-page)
+- Live Site URL: [live site URL](https://stkhalisha-huddle-landing-page.netlify.app/)
 
 
 ### Built with
@@ -27,7 +27,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - [Tailwindcss](https://tailwindcss.com/) CSS Framework
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 
