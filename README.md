@@ -13,10 +13,14 @@ Users should be able to:
 
 ### Screenshot
 
+<img width="1438" alt="Screenshot 2023-02-24 at 10 51 59" src="https://user-images.githubusercontent.com/60285814/221089186-c6102620-b0a3-40e1-9ac3-d439486fac97.png">
+
+
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
 
 ### Built with
 
@@ -26,13 +30,16 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
+
 ### What I learned
 
 I am currently in love with tailwindcss (CSS framework). This framework makes coding CSS easier, and this is my third project using tailwindcss.
 
+
 ### Useful resources
 
 - [Tailwindcss] (https://tailwindcss.com/) - This helped me so much with styling css faster.
+
 
 ## Author
 
