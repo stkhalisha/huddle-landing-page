@@ -19,7 +19,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/stkhalisha/huddle-landing-page)
-- Live Site URL: [live site URL](https://stkhalisha-huddle-landing-page.netlify.app/)
+- Live Site URL: [live site URL](https://stkhalisha-huddle-landing-page-with-single-introductory-section.vercel.app/)
 
 
 ### Built with
